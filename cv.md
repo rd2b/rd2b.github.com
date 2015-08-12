@@ -12,6 +12,7 @@ permalink: /cv/
  - 2007 Obtention du TOEIC avec 900 points
  - 2003 Bac Scientifique, spécialité mathématiques
 
+---
 
 # EXPÉRIENCE PROFESSIONNELLE #
 
@@ -86,6 +87,7 @@ Ingénieur d’Étude Open Source	Depuis Octobre 2007
  - Définition et mise en place des préconisations master/slave à base de DRBD/MySQL
  - Développement de librairies  pour API python basée sur SQLAlchemy.
 
+---
 
 ## Stages ##
 
@@ -115,6 +117,7 @@ Développeur (Stage – 3 mois) - 2005
  - Réalisation du site Internet de l’entreprise  en ASP 
  - Développement d’un logiciel de routage postal en VB.net
 
+---
 
 # COMPÉTENCES #
 
@@ -162,6 +165,7 @@ Précédentes expériences avec :
  - Gestion d’équipe, management, gestion de conflits
  - Marketing, économie de l’entreprise
 
+---
 
 # ACTIVITES PERSONNELLES #
  - Packaging d’applications pour Debian/Ubuntu : service-wrapper-java, acgvision-agent.
