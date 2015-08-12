@@ -1,0 +1,11 @@
+# Site settings
+title: RD2B
+email: debay.remi@gmail.com
+description: "Page perso"
+baseurl: ""
+url: "http://rd2b.github.io"
+github_username:  rd2b
+
+# Build settings
+markdown: kramdown
+permalink: pretty
