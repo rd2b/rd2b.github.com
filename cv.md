@@ -14,9 +14,21 @@ permalink: /cv/
 
 
 # EXPÉRIENCE PROFESSIONNELLE #
+## Orange portails pour Orange Applications for Business - Bagnolet ## 
+Ingénieur système conformité - Août 2015
+- Developpement d'outils d'indicateurs de conformité
+- Qualification des socles Ubuntu
+- Etude puis mise en place d'outils de migrations Ubuntu 12.04 à 14.04 et 16.04
+- Developpement d'outils pour le déploiement continu gitlab/ansible
+- Déploiements sur 3000+ machines sans interruption de service
+- Expertise technique sur la gestion des incidents
+- Expertise technique sur la gestion des travaux
+- Outils de validation des modes opératoires
+- Développement d'images Docker
+
 
 ## Orange portails pour A.C.G.Center - ARRAS ## 
-Ingénieur système - Depuis Octobre 2010
+Ingénieur système - 2010 à 2015
 
 ### Administration technique, étude et évolution des outils d’infrastructure ###
  - Migrations Linux Debian vers Ubuntu.
@@ -122,7 +134,6 @@ Développeur (Stage – 3 mois) - 2005
  - Usage quotidien de Linux Debian, Ubuntu, CentOS
  - Expériences précédentes avec Gentoo
  - Exploitation et mise en place de Kernels GRSecurity
- - Windows Server 2003, 2008
 
 
 ## Outils ##
@@ -130,7 +141,7 @@ Développeur (Stage – 3 mois) - 2005
  - Serveurs Web Apache, lighttpd, proftpd
  - Proxies Squid, ftp-proxy
  - Tomcat, Sun application Server
- - Versionning : Subversion, Git, Bazaar
+ - Versionning : Git, Subversion, Bazaar
  - Gestion de configuration avec CFengine
  - VMware, KVM, Virtual Box
  - Sauvegarde/Archivage Amanda, Bacula, Active Circle
@@ -142,11 +153,11 @@ Usage quotidien de :
 
  - Shell UNIX Bash, Perl
  - Python
- - PHP
 
 
 Précédentes expériences avec :
 
+ - PHP
  - JAVA/J2EE, JavaScript, Web Services SOAP
  - Windows (VBScript, Batch...)
  - .Net, C#, VB.net, ASP
@@ -167,5 +178,3 @@ Précédentes expériences avec :
  - Packaging d’applications pour Debian/Ubuntu : service-wrapper-java, acgvision-agent.
  - Administration d'une plateforme virtuelle avec cfengine3, kvm
  - Github: [rd2b.github.io http://rd2b.github.io/
-
-
