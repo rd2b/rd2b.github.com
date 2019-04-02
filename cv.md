@@ -1,21 +1,34 @@
 ---
 layout: page
-title: CV
+title: "CV Remi Debay"
 permalink: /cv/
 ---
 
 # FORMATION #
- - 2013 Certification ITIL v3
- - 2012 Linux Professional Institute Certification niveau 1 (LPIC-1)
- - 2009 École CENTRALE Lille, Ingénieur en Génie Informatique et Industriel
- - 2009 Formation VM Ware ESX 3.5 « Installation & Configuration »
- - 2007 Obtention du TOEIC avec 900 points
- - 2003 Bac Scientifique, spécialité mathématiques
+## Cursus
+- 2009 École CENTRALE Lille, Ingénieur en Génie Informatique et Industriel
+- 2003 Bac Scientifique, spécialité mathématiques
+## Certifications
+- 2013 Certification ITIL v3
+- 2012 Linux Professional Institute Certification niveau 1 (LPIC-1)
+- 2007 Obtention du TOEIC avec 900 points
+## Formation techniques
+- 2018 Kubernetes
+- 2016 Ansible
+- 2009 VMWare ESX
+
 
 
 # EXPÉRIENCE PROFESSIONNELLE #
-## Orange portails pour Orange Applications for Business - Bagnolet ## 
-Ingénieur système conformité - Août 2015
+## Ingénieur de conformité dans la Direction Technique Orange Portails
+2016 à 2019 pour Orange Business Services
+- Développement d'un ETL python d'aggrégation des données de production vers base Elastic Search,
+- Mise en place de dashboards décisionnels,
+- Déploiement d'outils de production sur tout le parc Orange Portails avec Ansible,
+- Recolte et suivi des informations de qualité
+
+## Ingénieur système conformité pour la Gouvernance Technique Orange Portails
+2013 à 2015 pour A.C.G.Center
 - Developpement d'outils d'indicateurs de conformité
 - Qualification des socles Ubuntu
 - Etude puis mise en place d'outils de migrations Ubuntu 12.04 à 14.04 et 16.04
@@ -27,45 +40,49 @@ Ingénieur système conformité - Août 2015
 - Développement d'images Docker
 
 
-## Orange portails pour A.C.G.Center - ARRAS ## 
-Ingénieur système - 2010 à 2015
+## Ingénieur système pour Orange Portails
+2010 à 2013 pour A.C.G.Center
 
 ### Administration technique, étude et évolution des outils d’infrastructure ###
- - Migrations Linux Debian vers Ubuntu.
- - Migration majeure de l'outil de supervision BigBrother vers Xymon.
+Plateformes outils d'infrastructure:
+- Migrations Linux Debian vers Ubuntu.
+- Migration majeure de l'outil de supervision BigBrother vers Xymon.
 
- - Automatisation de l'installation de serveurs Amanda par Cfengine.
- - Gestion de la sauvegarde Amanda sur 3000 machines.
- - Étude de migration de Amanda vers Bacula par Cfengine.
+Gestion des Sauvegardes:
+- Automatisation de l'installation de serveurs Amanda par Cfengine.
+- Gestion de la sauvegarde Amanda sur 3000 machines.
+- Étude de migration de Amanda vers Bacula par Cfengine.
 
- - Administration d’Active Circle pour l’archivage quotidien des données juridiques redondé tri-site.
- - Génération de rapports pour les outils d’archivage.
- - Étude et déploiement de tests de synchronisation.
+- Archivage des données juridiques avec Active Circle en redondé tri-site.
+- Génération de rapports de facturation interne pour les outils d’archivage.
+- Supervision de la synchronisation.
 
- - Industrialisation des processus de déploiement de configuration par cfengine.
- - Rédaction de scripts de supervision (Bash/Perl/Python).
+- Industrialisation des processus de déploiement de configuration par cfengine.
+- Rédaction de scripts de supervision (Bash/Perl/Python).
 
- - Administration plateforme FTP bi-site Actif/Passif proftpd.
- - Exploitation des bases de données MySQL de la supervision et du FTP en réplication Master-Master.
+- Administration plateforme FTP bi-site Actif/Passif proftpd.
+- Exploitation des bases de données MySQL de la supervision et du FTP en réplication Master-Master.
 
 
-### Exploitation des outils de sécurité pour l’accès au réseau de production dans un environnement ITIL : ###
- - Sécurisation puis administration de noyau par GR Security.
- - Gestion des accès SSH par serveurs de rebonds sécurisés.
- - Évolution d’outils de synchronisation de répertoires utilisateurs avec rsync.
- - Sécurisation d’accès bastions par iptable.
+### Exploitation des outils de sécurité d'accès à la production : ###
+Pour environ l'accès à la production d'environ 500 utilisateurs:
+Serveurs Bastions :
+- Rebonds SSH et gestion des clefs d'accès.
+- Sécurisation par Kernel GR Security.
+- Synchronisation de répertoires utilisateurs avec rsync.
+- Filtrage d’accès par iptable.
 
- - Administration de reverse proxies Apache.
- - Validation « sécurité » des virtual hosts.
- - Génération et utilisation de certificats openssl pour Apache et Tomcat.
+Reverse proxies Apache.
+- Validation « sécurité » des virtual hosts.
+- Génération et utilisation de certificats openssl pour Apache et Tomcat.
 
- - Administration de solution Squid/havp/keepalived pour 500 utilisateurs.
- - Générations de rapport d’utilisation pour squid.
- - Étude et mise en place de proxy ftp.
-
+Proxies Internet:
+- Administration de solution Squid/havp/keepalived pour 500 utilisateurs.
+- Générations de rapport d’utilisation pour squid.
+- Étude et mise en place de proxy ftp.
 
 ## A.C.G.Center - ARRAS ##
-Ingénieur d’Étude Open Source	Depuis Octobre 2007
+Ingénieur d’Étude Open Source 2007 à 2010
 
 ### Phase 1 : Étude, développement et passage en Web Services de la solution de supervision ACGVision : ###
  - Mise en place du « Plan Projet »
@@ -96,8 +113,7 @@ Ingénieur d’Étude Open Source	Depuis Octobre 2007
 ### Phase 3 : Exploitation et évolution des services ###
  - Création d’outils de statistiques mensuels.
  - Définition et mise en place des préconisations master/slave à base de DRBD/MySQL
- - Développement de librairies  pour API python basée sur SQLAlchemy.
-
+ - Développement de librairies pour API python basée sur SQLAlchemy.
 
 ## Stages ##
 
@@ -108,7 +124,6 @@ Ingénieur d’Étude Open Source	Depuis Octobre 2007
  - Passage d’une application VBA mono utilisateur vers .Net (C#) / SQL Server multi utilisateur.
  - Intégration et packaging de l’application.
  - Recette fonctionnelle et Technique.
-
 
 #### Administration système ####
  - Préparation de réseau Windows AD
@@ -127,51 +142,48 @@ Développeur (Stage – 3 mois) - 2005
  - Réalisation du site Internet de l’entreprise  en ASP 
  - Développement d’un logiciel de routage postal en VB.net
 
-
 # COMPÉTENCES #
+## Devops
+- Images Docker
+- Deploiement continu avec gitlab-ci
+- Déploiement avec Ansible sur gros volumes
 
 ## Systèmes d'exploitations ##
- - Usage quotidien de Linux Debian, Ubuntu, CentOS
- - Expériences précédentes avec Gentoo
- - Exploitation et mise en place de Kernels GRSecurity
-
+- Usage quotidien de Linux Debian, Ubuntu, CentOS
+- Expériences précédentes avec Gentoo
+- Exploitation et mise en place de Kernels GRSecurity
 
 ## Outils ##
- - Base de données MySQL
- - Serveurs Web Apache, lighttpd, proftpd
- - Proxies Squid, ftp-proxy
- - Tomcat, Sun application Server
- - Versionning : Git, Subversion, Bazaar
- - Gestion de configuration avec CFengine
- - VMware, KVM, Virtual Box
- - Sauvegarde/Archivage Amanda, Bacula, Active Circle
- - Création de packages : Debian ".deb" et RedHat ".rpm"
-
+- Base de données MySQL
+- Serveurs Web Apache, lighttpd, proftpd
+- Proxies Squid, ftp-proxy
+- Gestion de configuration avec CFengine
+- VMware, KVM, Virtual Box
+- Sauvegarde/Archivage Amanda, Bacula, Active Circle
+- Création de packages : Debian ".deb" et RedHat ".rpm"
 
 ## Programmation ##
 Usage quotidien de :
-
- - Shell UNIX Bash, Perl
- - Python
-
+- Scripting Bash, Perl
+- Python en deploiement continu
+- Versionning : Git, Subversion, Bazaar
+- Tests unitaires et fonctionnels, Mocks
 
 Précédentes expériences avec :
-
  - PHP
  - JAVA/J2EE, JavaScript, Web Services SOAP
  - Windows (VBScript, Batch...)
  - .Net, C#, VB.net, ASP
  - C/C++, Ada
- - Tests unitaires, pyunit et junit
 
 
 ## Fonctionnelles ##
- - Gestion d'incidents
- - Audits fonctionnels, Cahier des charges
- - Supervision et création de modèles de supervision open source
- - Gestion de projet, techniques de réunion
- - Gestion d’équipe, management, gestion de conflits
- - Marketing, économie de l’entreprise
+- Astreintes système depuis 2013
+- Gestion d'incidents 
+- Prise d'astreinte
+- Audits fonctionnels, Cahier des charges
+- Supervision et création de modèles de supervision open source
+- Gestion de projet, techniques de réunion
 
 
 # ACTIVITES PERSONNELLES #
