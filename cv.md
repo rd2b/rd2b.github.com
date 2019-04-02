@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CV Remi Debay"
+title: "Rémi Debay, Ingénieur Système Devops"
 permalink: /cv/
 ---
 
