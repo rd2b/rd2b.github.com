@@ -5,22 +5,25 @@ permalink: /cv/
 ---
 
 ---------------------------------
-# FORMATION #
+# FORMATION
+
 ## Cursus
 - 2009 École CENTRALE Lille, Ingénieur en Génie Informatique et Industriel
 - 2003 Bac Scientifique, spécialité mathématiques
+
 ## Certifications
 - 2013 Certification ITIL v3
 - 2012 Linux Professional Institute Certification niveau 1 (LPIC-1)
 - 2007 Obtention du TOEIC avec 900 points
+
 ## Formation techniques
 - 2018 Kubernetes
 - 2016 Ansible
 - 2009 VMWare ESX
 
-
 ---------------------------------
-# EXPÉRIENCE PROFESSIONNELLE #
+# EXPÉRIENCE PROFESSIONNELLE
+
 ## Ingénieur de conformité dans la Direction Technique Orange Portails
 2016 à 2019 pour Orange Business Services
 - Développement d'un ETL python d'aggrégation des données de production vers base Elastic Search,
@@ -83,10 +86,10 @@ Proxies Internet:
 - Générations de rapport d’utilisation pour squid.
 - Étude et mise en place de proxy ftp.
 
-## A.C.G.Center - ARRAS ##
+## A.C.G.Center - ARRAS
 Ingénieur d’Étude Open Source 2007 à 2010
 
-### Phase 1 : Étude, développement et passage en Web Services de la solution de supervision ACGVision : ###
+### Phase 1 : Étude, développement et passage en Web Services de la solution de supervision ACGVision :
  - Mise en place du « Plan Projet »
  - Plan de charge
  - Planning
@@ -100,7 +103,7 @@ Ingénieur d’Étude Open Source 2007 à 2010
  - Recette fonctionnelle et Technique
 
 
-### Phase 2 : Instrumentation et interconnexion avec les outils libres : ###
+### Phase 2 : Instrumentation et interconnexion avec les outils libres :
  - Mise en place d’environnement d’intégration continue
  - Intégration de l’outil dans les distributions Debian/Ubuntu et Fedora/RedHat.
  - Rédaction de scripts de supervision applicatifs (Bash, python, VBScript…)
@@ -112,51 +115,52 @@ Ingénieur d’Étude Open Source 2007 à 2010
  - Liaison avec outils standards d’inventaire et de gestion d’incidents.
 
 
-### Phase 3 : Exploitation et évolution des services ###
+### Phase 3 : Exploitation et évolution des services
  - Création d’outils de statistiques mensuels.
  - Définition et mise en place des préconisations master/slave à base de DRBD/MySQL
  - Développement de librairies pour API python basée sur SQLAlchemy.
 
-## Stages ##
+## Stages
 
-### CHALLENGER MOMENTUM - MELBOURNE ###
+### CHALLENGER MOMENTUM - MELBOURNE
   Développeur .Net (Stage – 8 mois) - 2007
 
-#### Développement d’applications de gestion RH en environnement .Net####
+#### Développement d’applications de gestion RH en environnement .Net
  - Passage d’une application VBA mono utilisateur vers .Net (C#) / SQL Server multi utilisateur.
  - Intégration et packaging de l’application.
  - Recette fonctionnelle et Technique.
 
-#### Administration système ####
+#### Administration système
  - Préparation de réseau Windows AD
  - Migration de machine
  - Étude mise en place d’offre Blackberry Entreprise Serveur pour Exchange
 
 
-#### LAMATO - ARRAS ####
+#### LAMATO - ARRAS
 Développeur (Stage – 4 mois) - 2006 
  - Conception et développement d’un outil de gestion d’entrepôt industriel 
  - Conception et développement d’un outil de saisie de production.
 
 
-#### SEDIA - LENS ####
+#### SEDIA - LENS
 Développeur (Stage – 3 mois) - 2005
  - Réalisation du site Internet de l’entreprise  en ASP 
  - Développement d’un logiciel de routage postal en VB.net
 
 ---------------------------------
-# COMPÉTENCES #
+# COMPÉTENCES
+
 ## Devops
 - Images Docker
 - Deploiement continu avec gitlab-ci
 - Déploiement avec Ansible sur gros volumes
 
-## Systèmes d'exploitations ##
+## Systèmes d'exploitations
 - Usage quotidien de Linux Debian, Ubuntu, CentOS
 - Expériences précédentes avec Gentoo
 - Exploitation et mise en place de Kernels GRSecurity
 
-## Outils ##
+## Outils
 - Base de données MySQL
 - Serveurs Web Apache, lighttpd, proftpd
 - Proxies Squid, ftp-proxy
@@ -165,7 +169,7 @@ Développeur (Stage – 3 mois) - 2005
 - Sauvegarde/Archivage Amanda, Bacula, Active Circle
 - Création de packages : Debian ".deb" et RedHat ".rpm"
 
-## Programmation ##
+## Programmation
 Usage quotidien de :
 - Scripting Bash, Perl
 - Python en deploiement continu
@@ -180,7 +184,7 @@ Précédentes expériences avec :
  - C/C++, Ada
 
 
-## Fonctionnelles ##
+## Fonctionnelles
 - Astreintes système depuis 2013
 - Gestion d'incidents 
 - Prise d'astreinte
@@ -188,8 +192,8 @@ Précédentes expériences avec :
 - Supervision et création de modèles de supervision open source
 - Gestion de projet, techniques de réunion
 
-
-# ACTIVITES PERSONNELLES #
+-------------
+# ACTIVITES PERSONNELLES
  - Packaging d’applications pour Debian/Ubuntu : service-wrapper-java, acgvision-agent.
  - Administration d'une plateforme virtuelle avec cfengine3, kvm
  - Github: [rd2b.github.io http://rd2b.github.io/
