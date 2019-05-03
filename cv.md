@@ -4,6 +4,7 @@ title: "Rémi Debay, Ingénieur Système Devops"
 permalink: /cv/
 ---
 
+---------------------------------
 # FORMATION #
 ## Cursus
 - 2009 École CENTRALE Lille, Ingénieur en Génie Informatique et Industriel
@@ -18,18 +19,19 @@ permalink: /cv/
 - 2009 VMWare ESX
 
 
-
+---------------------------------
 # EXPÉRIENCE PROFESSIONNELLE #
 ## Ingénieur de conformité dans la Direction Technique Orange Portails
 2016 à 2019 pour Orange Business Services
 - Développement d'un ETL python d'aggrégation des données de production vers base Elastic Search,
 - Mise en place de dashboards décisionnels,
 - Déploiement d'outils de production sur tout le parc Orange Portails avec Ansible,
-- Recolte et suivi des informations de qualité
+- Récolte et suivi des informations de qualité,
+- Gestion de la dette technique.
 
 ## Ingénieur système conformité pour la Gouvernance Technique Orange Portails
 2013 à 2015 pour A.C.G.Center
-- Developpement d'outils d'indicateurs de conformité
+- Développement d'outils d'indicateurs de conformité
 - Qualification des socles Ubuntu
 - Etude puis mise en place d'outils de migrations Ubuntu 12.04 à 14.04 et 16.04
 - Developpement d'outils pour le déploiement continu gitlab/ansible
@@ -142,6 +144,7 @@ Développeur (Stage – 3 mois) - 2005
  - Réalisation du site Internet de l’entreprise  en ASP 
  - Développement d’un logiciel de routage postal en VB.net
 
+---------------------------------
 # COMPÉTENCES #
 ## Devops
 - Images Docker
